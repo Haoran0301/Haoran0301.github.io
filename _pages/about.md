@@ -24,6 +24,7 @@ My research lies at TBA...
 <!-- the intersection of <b>AI and Economics</b>, with a focus on two main directions: (1) <b>Mechanism Design and Auction Theory</b>: designing scalable and automated auction mechanisms using neural networks and optimization methods, with applications in online advertising; and (2) <b>Large Language Model (LLM) Reasoning and Decision Making</b>: understanding the planning and reasoning capabilities of LLMs, and developing reinforcement learning and game-theoretic methods for strategic decision-making with LLMs. I am particularly interested in bridging theory and practice by applying economic principles to AI systems. -->
 
 You can find my publications on <a href='https://scholar.google.com/citations?user=kfbX33MAAAAJ'>Google Scholar</a>.
+Reach me at <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>.
 <!-- <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
 
