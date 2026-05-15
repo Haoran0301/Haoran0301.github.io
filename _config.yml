@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Haoran Sun"
 description              : "Haoran Sun is a PhD student in the CFCS, School of Computer Science, Peking University."
-repository               : "Haoran0301/haorans.github.io"
+repository               : "Haoran0301/Haoran0301"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Haoran Sun"
-  avatar           : "/images/haoran.jpg"
+  avatar           : "images/android-chrome-512x512.png"
   bio              : # "Haoran Sun is a PhD student in the CFCS, School of Computer Science, Peking University."
   location         : "Beijing, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Haoran0301"
   google_plus      :
   keybase          :
   instagram        :

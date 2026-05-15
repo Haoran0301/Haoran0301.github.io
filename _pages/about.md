@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at the <a href="https://www.pku.edu.cn/">Center on Frontiers of Computing Studies, School of Computer Science, Peking University</a>, advised by <a href="https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm">Prof. Xiaotie Deng</a>. I received my B.E. in Artificial Intelligence (Tong Class) and B.A. in Economics (Double Major) from <a href="https://yuanpei.pku.edu.cn/">Yuanpei College, Peking University</a> in 2024.
+Hi! My name is Haoran Sun (孙皓然). I am a PhD student at the <a href="https://www.pku.edu.cn/">Center on Frontiers of Computing Studies, School of Computer Science, Peking University</a>, advised by <a href="https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm">Prof. Xiaotie Deng</a>. I received my B.E. in Artificial Intelligence (Tong Class) and B.A. in Economics (Double Major) from <a href="https://yuanpei.pku.edu.cn/">Yuanpei College, Peking University</a> in 2024.
 
 My research lies at TBA...
 
