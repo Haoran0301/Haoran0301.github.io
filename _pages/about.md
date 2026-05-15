@@ -129,16 +129,15 @@ Zhijian Duan, **Haoran Sun**, Yurong Chen, Xiaotie Deng
 
 # 📖 Educations
 
-{% assign pku_logo = '/images/pku.png' | relative_url %}
 <div class="education-list" markdown="0">
 <div class="education-with-logo">
-<img src="{{ pku_logo }}" alt="Peking University" class="education-with-logo__logo">
+<img src="images/pku.png" alt="Peking University" class="education-with-logo__logo">
 <div class="education-with-logo__text" markdown="1">
 *2024.09 - 2029.07 (Expected)*, PhD in Computer Science, Center on Frontiers of Computing Studies, School of Computer Science, Peking University. Advisor: Prof. Xiaotie Deng.
 </div>
 </div>
 <div class="education-with-logo">
-<img src="{{ pku_logo }}" alt="Peking University" class="education-with-logo__logo">
+<img src="images/pku.png" alt="Peking University" class="education-with-logo__logo">
 <div class="education-with-logo__text" markdown="1">
 *2020.09 - 2024.07*, B.E. in Artificial Intelligence and B.A. in Economics (Double Major), Tong Class, Yuanpei College, Peking University.
 </div>
