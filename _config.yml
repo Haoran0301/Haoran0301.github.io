@@ -68,7 +68,9 @@ include:
   - _pages
   - files
 exclude:
-  - docs
+  # docs/cv.pdf 需在导航中链接，不能完全排除 docs；排除仓库说明与截图即可
+  - docs/README-zh.md
+  - docs/screenshot.png
   - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"

@@ -3,6 +3,10 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "CV"
+    url: "/docs/cv.pdf"
+    target: "_blank"
+
   - title: "News"
     url: "/#-news"
 
