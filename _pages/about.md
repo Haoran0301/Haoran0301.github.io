@@ -38,9 +38,7 @@ Reach me at <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications 
-
-## Selected Conference Papers (* indicates equal contribution)
+# 📝 Selected Publications (* indicates equal contribution) 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/CA-AMA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,7 +47,6 @@ Reach me at <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
 
 **Haoran Sun**, Xuanzhi Xia, Xu Chu, Xiaotie Deng
 
-<strong><span class='show_paper_citations' data='kfbX33MAAAAJ:9yKSN-GCB0IC'></span></strong>
 - Proposed correlation-aware affine maximizer auctions for correlated bidders.
 </div>
 </div>
@@ -61,7 +58,6 @@ Reach me at <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
 
 Siwei Wang$^\*$, Yifei Shen$^\*$, **Haoran Sun$^\*$**, Shi Feng$^\*$, Shang-Hua Teng, Li Dong, Yaru Hao, Wei Chen
 
-<strong><span class='show_paper_citations' data='kfbX33MAAAAJ:u-x6o8ySG0sC'></span></strong>
 - Theoretical analysis of RL methods for LLM planning, revealing benefits and pitfalls.
 </div>
 </div>
@@ -73,7 +69,6 @@ Siwei Wang$^\*$, Yifei Shen$^\*$, **Haoran Sun$^\*$**, Shi Feng$^\*$, Shang-Hua 
 
 Zhijian Duan$^\*$, **Haoran Sun$^\*$**, Yichong Xia, Siqiang Wang, Zhilin Zhang, Chuan Yu, Jian Xu, Xiaotie Deng
 
-<strong><span class='show_paper_citations' data='kfbX33MAAAAJ:qjMakFHDy7sC'></span></strong>
 - Novel combinatorial auction design combining zeroth-order and first-order optimization.
 </div>
 </div>
@@ -85,7 +80,6 @@ Zhijian Duan$^\*$, **Haoran Sun$^\*$**, Yichong Xia, Siqiang Wang, Zhilin Zhang,
 
 **Haoran Sun**, Yurong Chen, Siwei Wang, Wei Chen, Xiaotie Deng
 
-<strong><span class='show_paper_citations' data='kfbX33MAAAAJ:u5HHmVD_uO8C'></span></strong>
 - Mechanism design framework for LLM fine-tuning with multiple reward models.
 </div>
 </div>
@@ -97,7 +91,6 @@ Zhijian Duan$^\*$, **Haoran Sun$^\*$**, Yichong Xia, Siqiang Wang, Zhilin Zhang,
 
 **Haoran Sun**, Yusen Wu, Yukun Cheng, Xu Chu
 
-<strong><span class='show_paper_citations' data='kfbX33MAAAAJ:d1gkVwhDpl8C'></span></strong>
 - Comprehensive survey on the intersection of game theory and LLMs.
 </div>
 </div>
@@ -109,12 +102,11 @@ Zhijian Duan$^\*$, **Haoran Sun$^\*$**, Yichong Xia, Siqiang Wang, Zhilin Zhang,
 
 Zhijian Duan, **Haoran Sun**, Yurong Chen, Xiaotie Deng
 
-<strong><span class='show_paper_citations' data='kfbX33MAAAAJ:2osOgNQ5qMEC'></span></strong>
 - Neural network approach for designing affine maximizer auctions.
 </div>
 </div>
 
-*[See full list of preprints →](/preprints/)*
+*[See full list of preprints →]({{ '/preprints/' | relative_url }})*
 
 <br>
 
@@ -142,13 +134,13 @@ Zhijian Duan, **Haoran Sun**, Yurong Chen, Xiaotie Deng
 <div class="education-with-logo">
 <img src="{{ pku_logo }}" alt="Peking University" class="education-with-logo__logo">
 <div class="education-with-logo__text" markdown="1">
-*2024.08 - 2029.07 (Expected)*, PhD in Computer Science, Center on Frontiers of Computing Studies, School of Computer Science, Peking University. Advisor: Prof. Xiaotie Deng.
+*2024.09 - 2029.07 (Expected)*, PhD in Computer Science, Center on Frontiers of Computing Studies, School of Computer Science, Peking University. Advisor: Prof. Xiaotie Deng.
 </div>
 </div>
 <div class="education-with-logo">
 <img src="{{ pku_logo }}" alt="Peking University" class="education-with-logo__logo">
 <div class="education-with-logo__text" markdown="1">
-*2020.08 - 2024.07*, B.E. in Artificial Intelligence and B.A. in Economics (Double Major), Tong Class, Yuanpei College, Peking University. GPA: 3.7/4.0
+*2020.09 - 2024.07*, B.E. in Artificial Intelligence and B.A. in Economics (Double Major), Tong Class, Yuanpei College, Peking University.
 </div>
 </div>
 </div>

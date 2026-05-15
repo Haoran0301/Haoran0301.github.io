@@ -8,6 +8,9 @@
 # Site Settings
 title                    : "Haoran Sun"
 description              : "Haoran Sun is a PhD student in the CFCS, School of Computer Science, Peking University."
+# GitHub Pages 项目站点须设置 baseurl，否则子页面（如 /preprints/）里以 / 开头的资源会指向错误路径
+url                      : "https://haoran0301.github.io"
+baseurl                  : "/Haoran0301"
 repository               : "Haoran0301/Haoran0301"
 google_scholar_stats_use_cdn : true
 

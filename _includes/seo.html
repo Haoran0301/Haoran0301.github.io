@@ -4,9 +4,8 @@
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
 
-{% if site.url %}
-  {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
-{% endif %}
+{% assign canonical_page_path = page.url | replace: "/index.html", "/" | replace: "index.html", "" %}
+{% assign canonical_url = canonical_page_path | absolute_url %}
 
 <title>{{ site.title }} - Homepage</title>
 
@@ -34,8 +33,8 @@
 <meta property="og:title" content="{{ site.title }}">
 
 {% if seo_url %}
-  <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
-  <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
+  <link rel="canonical" href="{{ canonical_url }}">
+  <meta property="og:url" content="{{ canonical_url }}">
 {% endif %}
 
 {% if page.excerpt %}
