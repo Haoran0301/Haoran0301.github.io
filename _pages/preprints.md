@@ -66,7 +66,7 @@ JDT AI Infra Team
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src="{{ '/images/GT_LLM_journal.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src="{{ '/images/GT_LLM_Journal.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Game Theory Meets Large Language Models: A Systematic Survey with Taxonomy and New Frontiers](https://arxiv.org/abs/2502.09053)
