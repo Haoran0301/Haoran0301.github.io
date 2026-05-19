@@ -7,11 +7,12 @@
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="{{ '/' | relative_url }}#about-me" target="_self">Homepage</a></li>
           {% for link in site.data.navigation.main %}
             {% assign link_url = link.url %}
+            {% assign nav_target = link.target | default: "_self" %}
             {% if link_url contains '#' %}
               {% assign link_parts = link_url | split: '#' %}
-              <li class="masthead__menu-item"><a href="{{ link_parts[0] | relative_url }}#{{ link_parts[1] }}" target="_self">{{ link.title }}</a></li>
+              <li class="masthead__menu-item"><a href="{{ link_parts[0] | relative_url }}#{{ link_parts[1] }}" target="{{ nav_target }}"{% if nav_target == '_blank' %} rel="noopener noreferrer"{% endif %}>{{ link.title }}</a></li>
             {% else %}
-              <li class="masthead__menu-item"><a href="{{ link_url | relative_url }}" target="_self">{{ link.title }}</a></li>
+              <li class="masthead__menu-item"><a href="{{ link_url | relative_url }}" target="{{ nav_target }}"{% if nav_target == '_blank' %} rel="noopener noreferrer"{% endif %}>{{ link.title }}</a></li>
             {% endif %}
           {% endfor %}
         </ul>

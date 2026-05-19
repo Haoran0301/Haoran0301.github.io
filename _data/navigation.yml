@@ -3,17 +3,18 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  # - title: "News"
+  #   url: "/#-news"
 
-  - title: "Publications"
-    url: "/#publications"
+  - title: "Papers"
+    url: "/papers/#papers-in-progress"
 
-  - title: "Preprints"
-    url: "/preprints/#preprints"
-
-  - title: "Educations"
+  - title: "Experience"
     url: "/#-educations"
 
-  - title: "Internships"
-    url: "/#-internships"
+  # - title: "Internships"
+  #   url: "/#-internships"
+
+  - title: "CV"
+    url: "/docs/cv.pdf"
+    target: "_blank"

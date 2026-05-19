@@ -8,8 +8,9 @@
 # Site Settings
 title                    : "Haoran Sun"
 description              : "Haoran Sun is a PhD student in the CFCS, School of Computer Science, Peking University."
-url                      : "https://haoran0301.github.io"
-baseurl                  : ""
+# GitHub Pages 项目站点须设置 baseurl，否则子页面（如 /preprints/）里以 / 开头的资源会指向错误路径
+# url                      : "https://haoran0301.github.io"
+# baseurl                  : "/Haoran0301"
 repository               : "Haoran0301/Haoran0301.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -17,8 +18,8 @@ google_scholar_stats_use_cdn : true
 google_analytics_id      :  kfbX33MAAAAJ # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  googled00fc1823ae22830.html # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  86C50A2010AD4015285151D822DBC9F1 # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
@@ -67,7 +68,9 @@ include:
   - _pages
   - files
 exclude:
-  - docs
+  # docs/cv.pdf 需在导航中链接，不能完全排除 docs；排除仓库说明与截图即可
+  - docs/README-zh.md
+  - docs/screenshot.png
   - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"

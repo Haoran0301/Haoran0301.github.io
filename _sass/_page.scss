@@ -51,7 +51,8 @@
 .page__content {
   #about-me,
   #publications,
-  #preprints {
+  #papers-in-progress,
+  .bib-ref {
     margin-top: -10em;
       &:before { 
         content: ''; 
