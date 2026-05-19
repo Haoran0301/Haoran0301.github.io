@@ -28,7 +28,7 @@ Presented at ICLR 2026 Workshop on Scaling Post-training for LLMs
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src="{{ '/images/LERA.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**\[P5\]** LERA: LLM-Enhanced RAG for Ad Auction in Generative Chatbots
+**\[P5\]** [LERA: LLM-Enhanced RAG for Ad Auction in Generative Chatbots](https://arxiv.org/abs/2605.16474)
 
 **Haoran Sun**, Xinrui Song, Xinyu Zhang, Zhaohua Chen, Xu Chu, Zhilin Zhang, Chuan Yu, Jian Xu, Bo Zheng, Xiaotie Deng
 
