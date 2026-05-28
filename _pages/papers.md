@@ -19,7 +19,7 @@ redirect_from:
 
 **Haoran Sun\***, Yongjian Guo\*, Zhong Guan\*, Shuai Di, Xiaodong Bai, Jing Long, Tianyun Zhao, Mingxi Luo, Hongke Zhao, Likang Wu, Xiaotie Deng, Xu Chu, Xi Xiao, Sheng Wen, Yicheng Gong, Junwu Xiong
 
-Presented at ICLR 2026 Workshop on Scaling Post-training for LLMs
+Presented at ICLR 2026 Workshop on Scaling Post-training for LLMs (SPOT)
 - Efficient asynchronous reinforcement learning framework for Vision-Language-Action models.
 </div>
 </div>
@@ -49,13 +49,14 @@ Wen Huang\*, **Haoran Sun\***, Yongjian Guo\*, Yunxuan Ma, Haoran Li, Jing Long,
 </div>
 
 <span class='anchor bib-ref' id='P3'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src="{{ '/images/old_logit.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 FAGEN</div><img src="{{ '/images/old_logit.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **\[P3\]** [Missing Old Logits in Asynchronous Agentic RL: Semantic Mismatch and Repair Methods for Off-Policy Correction](https://arxiv.org/abs/2605.12070)
 
 Zhong Guan\*, Yongjian Guo\*, **Haoran Sun\***, Wen Huang, Shuai Di, Junwu Xiong, Likang Wu, Hongke Zhao
 
+Presented at ICML 2026 Workshop on Failure Modes of Agentic AI (FAGEN)
 - Analysis and solution for semantic mismatch in asynchronous agentic reinforcement learning.
 </div>
 </div>

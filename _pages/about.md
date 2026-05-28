@@ -27,6 +27,7 @@ Reach me at <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉 Honored to be awarded the <b>President Scholarship for PhD Students</b> (2026–2027) at Peking University!
 - *2026.05*: &nbsp;🎉 Our paper has been accepted to <b>ICML 2026</b>!
 - *2026.04*: &nbsp;🎉🎉 Honored to co-organize the <b>AIMS</b> Workshop [(AI for Mechanism Design and Strategic Decision Making)](https://alimama-tech.github.io/aims-2026) at <b>ICLR 2026</b>! Looking forward to seeing you in Rio de Janeiro!
 
@@ -110,6 +111,7 @@ Zhijian Duan, **Haoran Sun**, Yurong Chen, Xiaotie Deng
 
 # 🎖 Honors and Awards
 
+- *2026.05* 🏆 President Scholarship for PhD Students (2026–2027), Peking University
 - *2024.12* 🥉 3rd Place in NeurIPS 2024 Auto-Bidding in Large-Scale Auctions Competition (General Track)
 - *2024.06* 🏆 Song Qingling Scholarship, Peking University
 - *2023.10* 🏆 Yang Fuqing & Wang Yangyuan Academician Scholarship (Top 10%), Peking University
