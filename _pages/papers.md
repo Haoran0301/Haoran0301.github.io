@@ -38,13 +38,14 @@ Presented at ICML 2026 Workshop on New Frontiers in Game-theoretic Learning (NEx
 </div>
 
 <span class='anchor bib-ref' id='P4'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src="{{ '/images/noisegate.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 RLxF</div><img src="{{ '/images/noisegate.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **\[P4\]** [NoiseGate: Learning Per-Latent Timestep Schedules as Information Gating in World Action Models](https://arxiv.org/abs/2605.07794)
 
 Wen Huang\*, **Haoran Sun\***, Yongjian Guo\*, Yunxuan Ma, Haoran Li, Jing Long, Zhouying Mo, Zhong Guan, Yucheng Guo, Shuai Di, Junwu Xiong
 
+Presented at ICML 2026 Workshop on Reinforcement Learning from World Feedback (RLxF)
 - Novel timestep scheduling method for world models in embodied AI.
 </div>
 </div>
