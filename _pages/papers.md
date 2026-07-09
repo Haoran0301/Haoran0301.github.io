@@ -11,7 +11,7 @@ redirect_from:
 
 # Papers in Progress (* indicates equal contribution)
 
-<span class='anchor bib-ref' id='P6'></span>
+<!-- <span class='anchor bib-ref' id='P6'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 SPOT</div><img src="{{ '/images/RLVLA3.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -22,7 +22,7 @@ redirect_from:
 Presented at ICLR 2026 Workshop on Scaling Post-training for LLMs (SPOT)
 - Efficient asynchronous reinforcement learning framework for Vision-Language-Action models.
 </div>
-</div>
+</div> -->
 
 <span class='anchor bib-ref' id='P5'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src="{{ '/images/LERA.png' | relative_url }}" alt="sym" width="100%"></div></div>
@@ -37,13 +37,14 @@ Presented at ICLR 2026 Workshop on Scaling Post-training for LLMs (SPOT)
 </div>
 
 <span class='anchor bib-ref' id='P4'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src="{{ '/images/noisegate.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 RLxF</div><img src="{{ '/images/noisegate.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **\[P4\]** [NoiseGate: Learning Per-Latent Timestep Schedules as Information Gating in World Action Models](https://arxiv.org/abs/2605.07794)
 
 Wen Huang\*, **Haoran Sun\***, Yongjian Guo\*, Yunxuan Ma, Haoran Li, Jing Long, Zhouying Mo, Zhong Guan, Yucheng Guo, Shuai Di, Junwu Xiong
 
+Presented at ICML 2026 Workshop on Reinforcement Learning from World Feedback (RLxF)
 - Novel timestep scheduling method for world models in embodied AI.
 </div>
 </div>
@@ -90,6 +91,18 @@ JDT AI Infra Team
 <span class='anchor' id='publications'></span>
 
 # Conference Papers (* indicates equal contribution)
+
+<span class='anchor bib-ref' id='C10'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src="{{ '/images/RLVLA3.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RL-VLA$^3$: Reinforcement Learning VLA Accelerating via Full Asynchronism](https://arxiv.org/abs/2602.05765)
+
+**Haoran Sun\***, Yongjian Guo\*, Zhong Guan\*, Shuai Di, Xiaodong Bai, Jing Long, Tianyun Zhao, Mingxi Luo, Hongke Zhao, Likang Wu, Xiaotie Deng, Xu Chu, Xi Xiao, Sheng Wen, Yicheng Gong, Junwu Xiong
+
+- Efficient asynchronous reinforcement learning framework for Vision-Language-Action models.
+</div>
+</div>
 
 
 <span class='anchor bib-ref' id='C9'></span>

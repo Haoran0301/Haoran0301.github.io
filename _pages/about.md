@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! My name is Haoran Sun (孙皓然). I am a second-year PhD student at the <a href="https://www.pku.edu.cn/">Center on Frontiers of Computing Studies, School of Computer Science, Peking University</a>, advised by <a href="https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm">Prof. Xiaotie Deng</a>. I received my B.E. in Artificial Intelligence (Tong Class) and B.A. in Economics (Double Major) from <a href="https://yuanpei.pku.edu.cn/">Yuanpei College, Peking University</a> in 2024.
 
-My broader research interests lie at the intersection of game theory and AI — see our survey [\[P1\]]({{ '/papers/' | relative_url }}#P1). A line of my work has investigated how to leverage modern AI technology (neural networks) to discover high-revenue auction mechanisms (see [\[C2\]]({{ '/papers/' | relative_url }}#C2), [\[C7\]]({{ '/papers/' | relative_url }}#C7), and [\[C9\]]({{ '/papers/' | relative_url }}#C9)). More recently, I have been focusing on the training of foundation models, specifically post-training mechanisms and infrastructure (see [\[C8\]]({{ '/papers/' | relative_url }}#C8), [\[P6\]]({{ '/papers/' | relative_url }}#P6), and [\[P3\]]({{ '/papers/' | relative_url }}#P3)). Moreover, I am also interested in the product form of foundation models, i.e., how to monetize in the LLM era (see [\[P5\]]({{ '/papers/' | relative_url }}#P5) and [\[C6\]]({{ '/papers/' | relative_url }}#C6)).
+My broader research interests lie at the intersection of game theory and AI — see our survey [\[P1\]]({{ '/papers/' | relative_url }}#P1). A line of my work has investigated how to leverage modern AI technology (neural networks) to discover high-revenue auction mechanisms (see [\[C2\]]({{ '/papers/' | relative_url }}#C2), [\[C7\]]({{ '/papers/' | relative_url }}#C7), and [\[C9\]]({{ '/papers/' | relative_url }}#C9)). More recently, I have been focusing on the training of foundation models, specifically post-training mechanisms and infrastructure (see [\[C8\]]({{ '/papers/' | relative_url }}#C8), [\[C10\]]({{ '/papers/' | relative_url }}#C10), and [\[P3\]]({{ '/papers/' | relative_url }}#P3)). Moreover, I am also interested in the product form of foundation models, i.e., how to monetize in the LLM era (see [\[P5\]]({{ '/papers/' | relative_url }}#P5) and [\[C6\]]({{ '/papers/' | relative_url }}#C6)).
 
 You can find my publications on <a href='https://scholar.google.com/citations?user=kfbX33MAAAAJ'>Google Scholar</a>.
 Reach me at <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>.
@@ -27,6 +27,7 @@ Reach me at <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉 Our paper has been accepted to <b>COLM 2026</b>!
 - *2026.05*: &nbsp;🎉 Honored to be awarded the <b>President Scholarship for PhD Students</b> (2026–2027) at Peking University!
 - *2026.05*: &nbsp;🎉 Our paper has been accepted to <b>ICML 2026</b>!
 - *2026.04*: &nbsp;🎉🎉 Honored to co-organize the <b>AIMS</b> Workshop [(AI for Mechanism Design and Strategic Decision Making)](https://alimama-tech.github.io/aims-2026) at <b>ICLR 2026</b>! Looking forward to seeing you in Rio de Janeiro!
@@ -38,6 +39,18 @@ Reach me at <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
 <span class='anchor' id='publications'></span>
 
 # 📝 Selected Papers (* indicates equal contribution)
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src="{{ '/images/RLVLA3.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RL-VLA$^3$: Reinforcement Learning VLA Accelerating via Full Asynchronism](https://arxiv.org/abs/2602.05765)
+
+**Haoran Sun\***, Yongjian Guo\*, Zhong Guan\*, Shuai Di, Xiaodong Bai, Jing Long, Tianyun Zhao, Mingxi Luo, Hongke Zhao, Likang Wu, Xiaotie Deng, Xu Chu, Xi Xiao, Sheng Wen, Yicheng Gong, Junwu Xiong
+
+- Efficient asynchronous reinforcement learning framework for Vision-Language-Action models.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src="{{ '/images/CA-AMA.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
