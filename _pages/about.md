@@ -158,6 +158,24 @@ Zhijian Duan, **Haoran Sun**, Yurong Chen, Xiaotie Deng
 </div>
 
 # 💻 Internships
-- *2025.09 - Now*, Research Intern, JD Technology, Beijing, China. Mentored by Junwu Xiong (AI Infra Team).
-- *2025.02 - 2025.09*, Research Intern, Alimama, Alibaba Group, Beijing, China. Mentored by Zhilin Zhang (Advertising Group).
-- *2023.06 - 2024.03*, Research Intern, Microsoft Research Asia, Beijing, China. Mentored by Wei Chen (Theory Group).
+
+<div class="education-list internship-list" markdown="0">
+<div class="education-with-logo internship-with-logo">
+<img src="images/jingdong_logo.png" alt="JD Technology" class="education-with-logo__logo internship-with-logo__logo">
+<div class="education-with-logo__text" markdown="1">
+*2025.09 - Now*, Research Intern, JD Technology, Beijing, China. Mentored by Junwu Xiong (AI Infra Team).
+</div>
+</div>
+<div class="education-with-logo internship-with-logo">
+<img src="images/alimama.jpeg" alt="Alimama" class="education-with-logo__logo internship-with-logo__logo">
+<div class="education-with-logo__text" markdown="1">
+*2025.02 - 2025.09*, Research Intern, Alimama, Alibaba Group, Beijing, China. Mentored by Zhilin Zhang (Advertising Group).
+</div>
+</div>
+<div class="education-with-logo internship-with-logo">
+<img src="images/microsoft-logo.png" alt="Microsoft Research Asia" class="education-with-logo__logo internship-with-logo__logo">
+<div class="education-with-logo__text" markdown="1">
+*2023.06 - 2024.03*, Research Intern, Microsoft Research Asia, Beijing, China. Mentored by Wei Chen (Theory Group).
+</div>
+</div>
+</div>

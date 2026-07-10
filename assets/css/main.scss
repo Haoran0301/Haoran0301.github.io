@@ -180,6 +180,15 @@
   }
 }
 
+.internship-with-logo {
+  &__logo {
+    width: 104px;
+    max-height: 42px;
+    object-fit: contain;
+    object-position: left center;
+  }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

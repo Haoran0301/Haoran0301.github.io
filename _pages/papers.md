@@ -97,7 +97,7 @@ JDT AI Infra Team
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src="{{ '/images/RLVLA3.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RL-VLA$^3$: Reinforcement Learning VLA Accelerating via Full Asynchronism](https://arxiv.org/abs/2602.05765)
+**\[C10\]** [RL-VLA$^3$: Reinforcement Learning VLA Accelerating via Full Asynchronism](https://arxiv.org/abs/2602.05765)
 
 **Haoran Sun\***, Yongjian Guo\*, Zhong Guan\*, Shuai Di, Xiaodong Bai, Jing Long, Tianyun Zhao, Mingxi Luo, Hongke Zhao, Likang Wu, Xiaotie Deng, Xu Chu, Xi Xiao, Sheng Wen, Yicheng Gong, Junwu Xiong
 

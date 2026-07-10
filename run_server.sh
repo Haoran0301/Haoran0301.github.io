@@ -1,6 +1,6 @@
 # bundle exec jekyll liveserve
 
-bundle exec jekyll serve
+# bundle exec jekyll serve
 
 
 export PATH="/opt/homebrew/opt/ruby@3.4/bin:/opt/homebrew/lib/ruby/gems/3.4.0/bin:$PATH"
