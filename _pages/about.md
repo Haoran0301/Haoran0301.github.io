@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! My name is Haoran Sun (孙皓然). I am a second-year PhD student at the <a href="https://www.pku.edu.cn/">Center on Frontiers of Computing Studies, School of Computer Science, Peking University</a>, advised by <a href="https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm">Prof. Xiaotie Deng</a>. I received my B.E. in Artificial Intelligence (Tong Class) and B.A. in Economics (Double Major) from <a href="https://yuanpei.pku.edu.cn/">Yuanpei College, Peking University</a> in 2024.
 
-My broader research interests lie at the intersection of game theory and AI — see our survey [\[P1\]]({{ '/papers/' | relative_url }}#P1). A line of my work has investigated how to leverage modern AI technology (neural networks) to discover high-revenue auction mechanisms (see [\[C2\]]({{ '/papers/' | relative_url }}#C2), [\[C7\]]({{ '/papers/' | relative_url }}#C7), and [\[C9\]]({{ '/papers/' | relative_url }}#C9)). More recently, I have been focusing on the training of foundation models, specifically post-training mechanisms and infrastructure (see [\[C8\]]({{ '/papers/' | relative_url }}#C8), [\[C10\]]({{ '/papers/' | relative_url }}#C10), and [\[P3\]]({{ '/papers/' | relative_url }}#P3)). Moreover, I am also interested in the product form of foundation models, i.e., how to monetize in the LLM era (see [\[P5\]]({{ '/papers/' | relative_url }}#P5) and [\[C6\]]({{ '/papers/' | relative_url }}#C6)).
+My broader research interests lie at the intersection of game theory and AI — see our survey [\[P1\]]({{ '/papers/' | relative_url }}#P1). A line of my work has investigated how to leverage modern AI technology (neural networks) to discover high-revenue auction mechanisms (see [\[C2\]]({{ '/papers/' | relative_url }}#C2), [\[C7\]]({{ '/papers/' | relative_url }}#C7), and [\[C9\]]({{ '/papers/' | relative_url }}#C9)). More recently, I have been focusing on the training of foundation models, specifically post-training mechanisms and infrastructure (see [\[P6\]]({{ '/papers/' | relative_url }}#P6), [\[C8\]]({{ '/papers/' | relative_url }}#C8), [\[C10\]]({{ '/papers/' | relative_url }}#C10), and [\[P3\]]({{ '/papers/' | relative_url }}#P3)). Moreover, I am also interested in the product form of foundation models, i.e., how to monetize in the LLM era (see [\[P5\]]({{ '/papers/' | relative_url }}#P5) and [\[C6\]]({{ '/papers/' | relative_url }}#C6)).
 
 You can find my publications on <a href='https://scholar.google.com/citations?user=kfbX33MAAAAJ'>Google Scholar</a>.
 Reach me at <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>.
@@ -40,6 +40,17 @@ Reach me at <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
 
 # 📝 Selected Papers (* indicates equal contribution)
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src="{{ '/images/JoyNexus.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models](https://arxiv.org/abs/2607.16074)
+
+**Haoran Sun\***, Wentao Zhang\*, Junyang Hua, Hedan Yang, Yongjian Guo, Yifei Zhang, Xiaolong Xiang, Mingxi Luo, Jing Long, Chen Zhao, Chen Zhou, Wanting Xu, Qiming Yang, Hui Zhang, Song Wang, Xiaodong Bai, Shuai Di, Xu Chu, Xiaotie Deng, Yicheng Gong, Junwu Xiong
+ 
+- JoyNexus explores a new service‑oriented paradigm for multi‑tenant VLA post‑training.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src="{{ '/images/RLVLA3.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
