@@ -11,18 +11,17 @@ redirect_from:
 
 # Papers in Progress (* indicates equal contribution)
 
-<!-- <span class='anchor bib-ref' id='P6'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 SPOT</div><img src="{{ '/images/RLVLA3.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<span class='anchor bib-ref' id='P6'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src="{{ '/images/JoyNexus.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**\[P6\]** [RL-VLA$^3$: Reinforcement Learning VLA Accelerating via Full Asynchronism](https://arxiv.org/abs/2602.05765)
+**\[P6\]** [JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models](https://arxiv.org/abs/2607.16074)
 
-**Haoran Sun\***, Yongjian Guo\*, Zhong Guan\*, Shuai Di, Xiaodong Bai, Jing Long, Tianyun Zhao, Mingxi Luo, Hongke Zhao, Likang Wu, Xiaotie Deng, Xu Chu, Xi Xiao, Sheng Wen, Yicheng Gong, Junwu Xiong
-
-Presented at ICLR 2026 Workshop on Scaling Post-training for LLMs (SPOT)
-- Efficient asynchronous reinforcement learning framework for Vision-Language-Action models.
+**Haoran Sun\***, Wentao Zhang\*, Junyang Hua, Hedan Yang, Yongjian Guo, Yifei Zhang, Xiaolong Xiang, Mingxi Luo, Jing Long, Chen Zhao, Chen Zhou, Wanting Xu, Qiming Yang, Hui Zhang, Song Wang, Xiaodong Bai, Shuai Di, Xu Chu, Xiaotie Deng, Yicheng Gong, Junwu Xiong
+ 
+- JoyNexus explores a new service‑oriented paradigm for multi‑tenant VLA post‑training.
 </div>
-</div> -->
+</div>
 
 <span class='anchor bib-ref' id='P5'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 NExT-Game</div><img src="{{ '/images/LERA.png' | relative_url }}" alt="sym" width="100%"></div></div>
