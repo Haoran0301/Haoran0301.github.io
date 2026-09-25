@@ -11,11 +11,11 @@ redirect_from:
 
 # Papers in Progress (* indicates equal contribution)
 
-<span class='anchor bib-ref' id='P6'></span>
+<span class='anchor bib-ref' id='P5'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src="{{ '/images/JoyNexus.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**\[P6\]** [JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models](https://arxiv.org/abs/2607.16074)
+**\[P5\]** [JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models](https://arxiv.org/abs/2607.16074)
 
 **Haoran Sun\***, Wentao Zhang\*, Junyang Hua, Hedan Yang, Yongjian Guo, Yifei Zhang, Xiaolong Xiang, Mingxi Luo, Jing Long, Chen Zhao, Chen Zhou, Wanting Xu, Qiming Yang, Hui Zhang, Song Wang, Xiaodong Bai, Shuai Di, Xu Chu, Xiaotie Deng, Yicheng Gong, Junwu Xiong
  
@@ -23,11 +23,11 @@ redirect_from:
 </div>
 </div>
 
-<span class='anchor bib-ref' id='P5'></span>
+<span class='anchor bib-ref' id='P4'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 NExT-Game</div><img src="{{ '/images/LERA.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**\[P5\]** [LERA: LLM-Enhanced RAG for Ad Auction in Generative Chatbots](https://arxiv.org/abs/2605.16474)
+**\[P4\]** [LERA: LLM-Enhanced RAG for Ad Auction in Generative Chatbots](https://arxiv.org/abs/2605.16474)
 
 **Haoran Sun**, Xinrui Song, Xinyu Zhang, Zhaohua Chen, Xu Chu, Zhilin Zhang, Chuan Yu, Jian Xu, Bo Zheng, Xiaotie Deng
 
@@ -36,29 +36,16 @@ Presented at ICML 2026 Workshop on New Frontiers in Game-theoretic Learning (NEx
 </div>
 </div>
 
-<span class='anchor bib-ref' id='P4'></span>
+<span class='anchor bib-ref' id='P3'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 RLxF</div><img src="{{ '/images/noisegate.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**\[P4\]** [NoiseGate: Learning Per-Latent Timestep Schedules as Information Gating in World Action Models](https://arxiv.org/abs/2605.07794)
+**\[P3\]** [NoiseGate: Learning Per-Latent Timestep Schedules as Information Gating in World Action Models](https://arxiv.org/abs/2605.07794)
 
 Wen Huang\*, **Haoran Sun\***, Yongjian Guo\*, Yunxuan Ma, Haoran Li, Jing Long, Zhouying Mo, Zhong Guan, Yucheng Guo, Shuai Di, Junwu Xiong
 
 Presented at ICML 2026 Workshop on Reinforcement Learning from World Feedback (RLxF)
 - Novel timestep scheduling method for world models in embodied AI.
-</div>
-</div>
-
-<span class='anchor bib-ref' id='P3'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 FAGEN</div><img src="{{ '/images/old_logit.png' | relative_url }}" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**\[P3\]** [Missing Old Logits in Asynchronous Agentic RL: Semantic Mismatch and Repair Methods for Off-Policy Correction](https://arxiv.org/abs/2605.12070)
-
-Zhong Guan\*, Yongjian Guo\*, **Haoran Sun\***, Wen Huang, Shuai Di, Junwu Xiong, Likang Wu, Hongke Zhao
-
-Presented at ICML 2026 Workshop on Failure Modes of Agentic AI (FAGEN)
-- Analysis and solution for semantic mismatch in asynchronous agentic reinforcement learning.
 </div>
 </div>
 
@@ -91,6 +78,18 @@ JDT AI Infra Team
 <span class='anchor' id='publications'></span>
 
 # Conference Papers (* indicates equal contribution)
+
+<span class='anchor bib-ref' id='C11'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src="{{ '/images/old_logit.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**\[C11\]** [Missing Old Logits in Asynchronous Agentic RL: Semantic Mismatch and Repair Methods for Off-Policy Correction](https://arxiv.org/abs/2605.12070)
+
+Zhong Guan\*, Yongjian Guo\*, **Haoran Sun\***, Wen Huang, Shuai Di, Junwu Xiong, Likang Wu, Hongke Zhao
+
+- Analysis and solution for semantic mismatch in asynchronous agentic reinforcement learning.
+</div>
+</div>
 
 <span class='anchor bib-ref' id='C10'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src="{{ '/images/RLVLA3.png' | relative_url }}" alt="sym" width="100%"></div></div>
