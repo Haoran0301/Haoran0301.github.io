@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Haoran Sun (孙皓然). I am a second-year PhD student at the <a href="https://www.pku.edu.cn/">Center on Frontiers of Computing Studies, School of Computer Science, Peking University</a>, advised by <a href="https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm">Prof. Xiaotie Deng</a>. I received my B.E. in Artificial Intelligence (Tong Class) and B.A. in Economics (Double Major) from <a href="https://yuanpei.pku.edu.cn/">Yuanpei College, Peking University</a> in 2024.
+Hi! My name is Haoran Sun (孙皓然). I am a third-year PhD student at the <a href="https://www.pku.edu.cn/">Center on Frontiers of Computing Studies, School of Computer Science, Peking University</a>, advised by <a href="https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm">Prof. Xiaotie Deng</a>. I received my B.E. in Artificial Intelligence (Tong Class) and B.A. in Economics (Double Major) from <a href="https://yuanpei.pku.edu.cn/">Yuanpei College, Peking University</a> in 2024.
 
 My broader research interests lie at the intersection of game theory and AI — see our survey [\[P1\]]({{ '/papers/' | relative_url }}#P1). A line of my work has investigated how to leverage modern AI technology (neural networks) to discover high-revenue auction mechanisms (see [\[C2\]]({{ '/papers/' | relative_url }}#C2), [\[C7\]]({{ '/papers/' | relative_url }}#C7), and [\[C9\]]({{ '/papers/' | relative_url }}#C9)). More recently, I have been focusing on the training of foundation models, specifically post-training mechanisms and infrastructure (see [\[P5\]]({{ '/papers/' | relative_url }}#P5), [\[C8\]]({{ '/papers/' | relative_url }}#C8), [\[C10\]]({{ '/papers/' | relative_url }}#C10), and [\[C11\]]({{ '/papers/' | relative_url }}#C11)). Moreover, I am also interested in the product form of foundation models, i.e., how to monetize in the LLM era (see [\[P4\]]({{ '/papers/' | relative_url }}#P4) and [\[C6\]]({{ '/papers/' | relative_url }}#C6)).
 
@@ -146,12 +146,13 @@ Zhijian Duan, **Haoran Sun**, Yurong Chen, Xiaotie Deng
 
 # 🎖 Honors and Awards
 
+- *2026.09* 🏆 Peking University First Prize Scholarship
 - *2026.05* 🏆 President Scholarship for PhD Students (2026–2027), Peking University
 - *2024.12* 🥉 3rd Place in NeurIPS 2024 Auto-Bidding in Large-Scale Auctions Competition (General Track)
 - *2024.06* 🏆 Song Qingling Scholarship, Peking University
 - *2023.10* 🏆 Yang Fuqing & Wang Yangyuan Academician Scholarship (Top 10%), Peking University
 - *2023.10* 🏆 Outstanding Research Award, Peking University
-- *2023.08* 🥇 6th Place in IJCAI Mahjong AI Competition (IJCAI 2023); 8th Place (IJCAI 2024)
+<!-- - *2023.08* 🥇 6th Place in IJCAI Mahjong AI Competition (IJCAI 2023); 8th Place (IJCAI 2024) -->
 
 <br>
 
@@ -183,21 +184,35 @@ Zhijian Duan, **Haoran Sun**, Yurong Chen, Xiaotie Deng
 
 <div class="education-list internship-list" markdown="0">
 <div class="education-with-logo internship-with-logo">
+<img src="images/hunyuan.png" alt="Tencent Hunyuan" class="education-with-logo__logo internship-with-logo__logo">
+<div class="education-with-logo__text" markdown="1">
+*2026.10 - Now*, Qingyun Project Intern @ Agent Team, Hunyuan, Tencent.
+</div>
+</div>
+
+<!-- <div class="education-with-logo internship-with-logo">
+<img src="images/mindlab.png" alt="Mindlab" class="education-with-logo__logo internship-with-logo__logo">
+<div class="education-with-logo__text" markdown="1">
+*2026.09 - 2026.10*, Intern @ Infra Group (MinT), Mindlab, Remote. 
+</div>
+</div> -->
+
+<div class="education-with-logo internship-with-logo">
 <img src="images/jingdong_logo.png" alt="JD Technology" class="education-with-logo__logo internship-with-logo__logo">
 <div class="education-with-logo__text" markdown="1">
-*2025.09 - Now*, Research Intern, JD Technology, Beijing, China. Mentored by Junwu Xiong (AI Infra Team).
+*2025.09 - 2026.7*, Research Intern @ AI Infra Team, JD Technology.
 </div>
 </div>
 <div class="education-with-logo internship-with-logo">
 <img src="images/alimama.jpeg" alt="Alimama" class="education-with-logo__logo internship-with-logo__logo">
 <div class="education-with-logo__text" markdown="1">
-*2025.02 - 2025.09*, Research Intern, Alimama, Alibaba Group, Beijing, China. Mentored by Zhilin Zhang (Advertising Group).
+*2025.02 - 2025.09*, Research Intern @ Advertising Group, Alimama, Alibaba Group.
 </div>
 </div>
 <div class="education-with-logo internship-with-logo">
 <img src="images/microsoft-logo.png" alt="Microsoft Research Asia" class="education-with-logo__logo internship-with-logo__logo">
 <div class="education-with-logo__text" markdown="1">
-*2023.06 - 2024.03*, Research Intern, Microsoft Research Asia, Beijing, China. Mentored by Wei Chen (Theory Group).
+*2023.06 - 2024.03*, Research Intern @ Theory Group, Microsoft Research Asia.
 </div>
 </div>
 </div>
