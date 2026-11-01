@@ -10,10 +10,10 @@ main:
     url: "/papers/#papers-in-progress"
 
   - title: "Experience"
-    url: "/#-educations"
+    url: "/experience/"
 
   # - title: "Internships"
-  #   url: "/#-internships"
+  #   url: "/experience/#-internships"
 
   - title: "CV"
     url: "/docs/cv.pdf"

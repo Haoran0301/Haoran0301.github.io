@@ -129,7 +129,7 @@ Zhijian Duan$^\*$, **Haoran Sun$^\*$**, Yichong Xia, Siqiang Wang, Zhilin Zhang,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023 Spotlight</div><img src="{{ '/images/AMenuNet.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023 Spotlight</div><img src="{{ '/images/AMenuNet.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Scalable Neural Network for DSIC Affine Maximizer Auction Design](https://proceedings.neurips.cc/paper_files/paper/2023/hash/af31604708f3e44b4de9fdfa6dcaa9d1-Abstract-Conference.html)
@@ -138,7 +138,7 @@ Zhijian Duan, **Haoran Sun**, Yurong Chen, Xiaotie Deng
 
 - Neural network approach for designing affine maximizer auctions.
 </div>
-</div>
+</div> -->
 
 *[See full paper list →]({{ '/papers/' | relative_url }}#papers-in-progress)*
 
@@ -159,60 +159,4 @@ Zhijian Duan, **Haoran Sun**, Yurong Chen, Xiaotie Deng
 # 💬 Academic Service
 
 - Workshop Organizer: ICLR 2026 Workshop on AI for Mechanism Design and Strategic Decision Making (AIMS)
-- Peer Review: ICLR 2026, NeurIPS (2024-2026), ICML (2024-2026), WWW 2024, COLM 2026, IEEE TCE
-
-<br>
-
-# 📖 Educations
-
-<div class="education-list" markdown="0">
-<div class="education-with-logo">
-<img src="images/pku.png" alt="Peking University" class="education-with-logo__logo">
-<div class="education-with-logo__text" markdown="1">
-*2024.09 - 2029.07 (Expected)*, PhD in Computer Science, Center on Frontiers of Computing Studies, School of Computer Science, Peking University. Advisor: Prof. Xiaotie Deng.
-</div>
-</div>
-<div class="education-with-logo">
-<img src="images/pku.png" alt="Peking University" class="education-with-logo__logo">
-<div class="education-with-logo__text" markdown="1">
-*2020.09 - 2024.07*, B.E. in Artificial Intelligence and B.A. in Economics (Double Major), Tong Class, Yuanpei College, Peking University.
-</div>
-</div>
-</div>
-
-# 💻 Internships
-
-<div class="education-list internship-list" markdown="0">
-<div class="education-with-logo internship-with-logo">
-<img src="images/hunyuan.png" alt="Tencent Hunyuan" class="education-with-logo__logo internship-with-logo__logo">
-<div class="education-with-logo__text" markdown="1">
-*2026.10 - Now*, Qingyun Project Intern @ Agent Team, Hunyuan, Tencent.
-</div>
-</div>
-
-<!-- <div class="education-with-logo internship-with-logo">
-<img src="images/mindlab.png" alt="Mindlab" class="education-with-logo__logo internship-with-logo__logo">
-<div class="education-with-logo__text" markdown="1">
-*2026.09 - 2026.10*, Intern @ Infra Group (MinT), Mindlab, Remote. 
-</div>
-</div> -->
-
-<div class="education-with-logo internship-with-logo">
-<img src="images/jingdong_logo.png" alt="JD Technology" class="education-with-logo__logo internship-with-logo__logo">
-<div class="education-with-logo__text" markdown="1">
-*2025.09 - 2026.7*, Research Intern @ AI Infra Team, JD Technology.
-</div>
-</div>
-<div class="education-with-logo internship-with-logo">
-<img src="images/alimama.jpeg" alt="Alimama" class="education-with-logo__logo internship-with-logo__logo">
-<div class="education-with-logo__text" markdown="1">
-*2025.02 - 2025.09*, Research Intern @ Advertising Group, Alimama, Alibaba Group.
-</div>
-</div>
-<div class="education-with-logo internship-with-logo">
-<img src="images/microsoft-logo.png" alt="Microsoft Research Asia" class="education-with-logo__logo internship-with-logo__logo">
-<div class="education-with-logo__text" markdown="1">
-*2023.06 - 2024.03*, Research Intern @ Theory Group, Microsoft Research Asia.
-</div>
-</div>
-</div>
+- Peer Review: ICLR (2026-2027), NeurIPS (2024-2026), ICML (2024-2026), WWW 2024, COLM 2026, IEEE TCE
